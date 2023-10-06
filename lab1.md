@@ -1,7 +1,7 @@
 *cd - No Arguments*
 - ![Image](image.png)
 - The working directory is /home/lecture1/messages
-- I got this output since I provided no argument so it assumed the root directory
+- I got this output since I provided no argument so it assumed the home directory
 - This output is not an error
 
 *cd - Directory*
