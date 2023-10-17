@@ -1,12 +1,12 @@
 *cd - No Arguments*
 - ![Image](image.png)
 - The working directory is /home/lecture1/messages
-- I got this output since I provided no argument so it assumed the home directory
+- When I cd with no arguments I got this output since I provided no argument so it assumed the home directory
 - This output is not an error
 
 *cd - Directory*
 - <img width="266" alt="image" src="https://github.com/steventang5/cse15l-lab-reports/assets/146782397/79581352-ac4f-4f60-bef7-93a87875ffe2">
-- THe working directory this command was run was /home
+- The working directory this command was run was /home
 - I got this output because I provided the path to the directory I wanted to be my working directory
 - It is not an error 
 
