@@ -48,7 +48,7 @@
 
 *cat - File*
 - <img width="733" alt="image" src="https://github.com/steventang5/cse15l-lab-reports/assets/146782397/2590f4e7-ed8c-43a3-bf97-786ae2836e46">
-- THe working directory is home/lecture1
+- The working directory is home/lecture1
 - I got this output because you can cat into a file and it showed me the content of this file
 - This is not an error
 
