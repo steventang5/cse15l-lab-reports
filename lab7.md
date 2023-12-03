@@ -26,7 +26,7 @@ I ran `bash test.sh` to run the tests provided.
 <img width="397" alt="image" src="https://github.com/steventang5/cse15l-lab-reports/assets/146782397/fbaa88e9-8833-42a4-a997-97bbf618c71d">
 <img width="574" alt="image" src="https://github.com/steventang5/cse15l-lab-reports/assets/146782397/0fcd8ae7-9db2-4cfa-b140-ed28063cfeb6">
 
-Keys pressed: `vim L<tab>.java<enter>` `jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjlllllllllllr2:wq` I used `<tab>` to autocomplete `ListExamples.java`
+Keys pressed: `vim L<tab>.java<enter>` `jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjlllllllllllr2:wq<enter>` I used `<tab>` to autocomplete `ListExamples.java`
 I ran `vim ListExamples.java` to enter vim to edit the code to fix the failing test
 I used j to move down to the line with the bug and l to move right to the exact spot with the error. I then pressed r and 2 to replace the 1 in index1 to 2.
 
