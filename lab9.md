@@ -1,5 +1,5 @@
 **Part 1 - Debugging Scenario**
-1. Original post by student
+1) Original post by student  
 Title: JUnit Test Failing with ClassNotFoundException
 I'm working on running some JUnit tests for my Java class, and I'm running into an error I can't figure out. Every time I try to run my tests, I get a ClassNotFoundException. 
 I'm guessing it's something to do with the way I'm compiling or running my tests, but I'm not sure what's wrong. It is not letting me run my tests.
@@ -9,14 +9,14 @@ Here's the terminal output when I run my bash script to compile and test:
 
 Does anyone have any idea what might be causing this? Any help would be greatly appreciated!
 
-2. TA Response
+2) TA Response:  
   It looks like there might be an issue with your file names. Check your file names with what you are compiling with in test.sh.
 
-3. ![image](https://github.com/steventang5/cse15l-lab-reports/assets/146782397/25273727-3e5e-4e04-ba46-596b258b29e8)
+3) ![image](https://github.com/steventang5/cse15l-lab-reports/assets/146782397/25273727-3e5e-4e04-ba46-596b258b29e8)
 The student fixed the bug and now his tests are running correctly.
 The bug was the compile and run commands in his bash script used a different name for a file then what the actual file name was. Still an error with his tests.
 
-4. Information
+4) Information
 - File Structure:
   - └── lab7
     ├── ListExamples.class
