@@ -1,4 +1,4 @@
-**Part 1 - Debugging Scenario**
+**Part 1 - Debugging Scenario**  
 1) Original post by student  
 Title: JUnit Test Failing with ClassNotFoundException
 I'm working on running some JUnit tests for my Java class, and I'm running into an error I can't figure out. Every time I try to run my tests, I get a ClassNotFoundException. 
